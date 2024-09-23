@@ -13,7 +13,7 @@ function Menu() {
                     src={internationalIcon} 
                     className="komads2" 
                     alt="International" 
-                    style={{ width: '150px', height: 'auto' }} // Увеличиваем размер
+                    style={{ width: '150px', height: 'auto' }} 
                 />
                 <span className="category-item__title">International</span>
                 <Link to="/HomePage">
@@ -25,7 +25,7 @@ function Menu() {
                     src="https://esportsadvocate.net/wp-content/uploads/2023/04/ESL-One-Berlin-Dota-2-Major-18-teams.jpg" 
                     className="komads2" 
                     alt="Teams" 
-                    style={{ width: '150px', height: 'auto' }} // Увеличиваем размер
+                    style={{ width: '150px', height: 'auto' }} 
                 />
                 <span className="category-item__title">Teams</span>
                 <Link to="/Categories">
